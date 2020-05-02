@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emarket", "emarket\emarket.csproj", "{DA0087A2-5FFA-4E66-952B-DCDFD5075206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0087A2-5FFA-4E66-952B-DCDFD5075206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0087A2-5FFA-4E66-952B-DCDFD5075206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0087A2-5FFA-4E66-952B-DCDFD5075206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0087A2-5FFA-4E66-952B-DCDFD5075206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED8D2CA-83BB-4208-965F-BEE81A2C411E}
+	EndGlobalSection
+EndGlobal
